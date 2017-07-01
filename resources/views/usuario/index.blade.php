@@ -53,6 +53,7 @@
 							<th class="text-center">Contraseña</th>
 							<th class="text-center">Actualizar</th>
 							<th class="text-center">Eliminar</th>
+							<th class="text-center">opciones</th>
 						</tr>
 					</thead>
 					<tbody>
